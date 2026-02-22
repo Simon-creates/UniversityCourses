@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Application/UniversityCourses.Application.csproj" />
+  <Project Path="../UniversityCourses.Domain/UniversityCourses.Domain.csproj" />
+  <Project Path="../UniversityCourses.Infrastructure/UniversityCourses.Infrastructure.csproj" />
+  <Project Path="UniversityCourses.Presentation.csproj" />
+</Solution>
